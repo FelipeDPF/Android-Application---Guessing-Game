@@ -16,4 +16,4 @@
 
 # The zip file named HiLo contains the complete source code, but I also uploaded the three main java files inside the HiLo folder just in case you want to visualize the main implementations.
 
-# The image file displays the front layout of the application.
+# The image folder contains the front layout and display results image of the application.
